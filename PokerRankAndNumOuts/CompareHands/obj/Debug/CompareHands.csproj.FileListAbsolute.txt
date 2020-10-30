@@ -1,0 +1,5 @@
+F:\SourceCode\PokerAnalysis\CompareHands\bin\Debug\CompareHands.dll
+F:\SourceCode\PokerAnalysis\CompareHands\bin\Debug\CompareHands.pdb
+F:\SourceCode\PokerAnalysis\CompareHands\obj\Debug\CompareHands.dll
+F:\SourceCode\PokerAnalysis\CompareHands\obj\Debug\CompareHands.pdb
+F:\SourceCode\PokerAnalysis\CompareHands\obj\Debug\CompareHands.csprojResolveAssemblyReference.cache
