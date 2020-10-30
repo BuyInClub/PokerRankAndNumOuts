@@ -1,0 +1,14 @@
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\CompareHandsTests.dll
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\CompareHandsTests.pdb
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\CompareHands.dll
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\CompareHands.pdb
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\SourceCode\PokerAnalysis\CompareHandsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\SourceCode\PokerAnalysis\CompareHandsTests\obj\Debug\CompareHandsTests.csprojResolveAssemblyReference.cache
+F:\SourceCode\PokerAnalysis\CompareHandsTests\obj\Debug\CompareHandsTests.dll
+F:\SourceCode\PokerAnalysis\CompareHandsTests\obj\Debug\CompareHandsTests.pdb
